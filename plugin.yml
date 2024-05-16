@@ -1,0 +1,8 @@
+---
+name: FixCritParticles 
+version: 1.0.0
+api: 5.0.0
+main: ShauryaGupta06\FixCrit\Main
+author: ShauryaGupta06
+description: A mechanics to fix Minecraft Behaviour Crit Particles.
+---
